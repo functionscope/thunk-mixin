@@ -15,4 +15,5 @@ function thunkMixin(obj, methodNames){
       obj[methodName+"_t"] = thunkify(obj[methodName]);
     });
   }
+  return obj;
 }

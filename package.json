@@ -1,6 +1,6 @@
 {
   "name": "thunk-mixin",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "repository": "https//github.com/functionscope/thunk-mixin",
   "description": "Enhance object functions which have node style callback into thunks",
   "keywords": [
