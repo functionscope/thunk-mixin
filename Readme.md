@@ -1,6 +1,6 @@
 # thunk-mixin
 
-  Enhance object functions which have node style callback into thunks.  It adds thunkifed functions into its original object and name it as original function name + _t.  It is useful for generator-based flow control such as [co](https://github.com/visionmedia/co).
+  Enhance object functions which have node style callback into thunks.  It adds thunkified functions into its original object and name it as original function name + _t.  It is useful for generator-based flow control such as [co](https://github.com/visionmedia/co).
 
 ## Installation
 
