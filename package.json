@@ -1,0 +1,22 @@
+{
+  "name": "thunk-mixin",
+  "version": "0.1.0",
+  "repository": "https//github.com/functionscope/thunk-mixin",
+  "description": "Enhance object functions which have node style callback into thunks",
+  "keywords": [
+    "thunk",
+    "co",
+    "generator",
+    "generators",
+    "promise"
+  ],
+  "dependencies": {
+    "thunkify":"2.1.2"  
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT",
+  "author": "Ber-Lin Lai <berlin.lai@gmail.com>"
+}
